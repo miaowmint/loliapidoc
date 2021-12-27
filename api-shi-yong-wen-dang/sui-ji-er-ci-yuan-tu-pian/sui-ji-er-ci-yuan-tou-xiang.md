@@ -1,5 +1,5 @@
 ---
-description: 目前收录了194张
+description: 目前收录了194张图片
 ---
 
 # 随机二次元头像
@@ -10,7 +10,7 @@ description: 目前收录了194张
 https://www.loliapi.com/acg/pp/
 ```
 
-{% hint style="info" %}
+{% hint style="success" %}
 URL中的 pp 是**Profile Picture**的简写
 {% endhint %}
 

@@ -1,5 +1,5 @@
 ---
-description: 目前收录了98张
+description: 目前收录了98张图片
 ---
 
 # 手机端随机图片
@@ -10,7 +10,7 @@ description: 目前收录了98张
 https://www.loliapi.com/acg/pe/
 ```
 
-{% hint style="info" %}
+{% hint style="success" %}
 URL中的 pe 是**Pocket Edition**的简写
 {% endhint %}
 
