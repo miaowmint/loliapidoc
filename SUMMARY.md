@@ -5,11 +5,11 @@
 
 ## api使用文档
 
-* [随机二次元图片](api-shi-yong-wen-dang/sui-ji-er-ci-yuan-tu-pian/README.md)
-  * [Page 1](api-shi-yong-wen-dang/sui-ji-er-ci-yuan-tu-pian/page-1.md)
+* [随机二次元图片api](api-shi-yong-wen-dang/sui-ji-er-ci-yuan-tu-pian/README.md)
+  * [自适应UA返回随机图片](api-shi-yong-wen-dang/sui-ji-er-ci-yuan-tu-pian/page-1.md)
   * [电脑端随机图片](api-shi-yong-wen-dang/sui-ji-er-ci-yuan-tu-pian/dian-nao-duan-sui-ji-tu-pian.md)
   * [手机端随机图片](api-shi-yong-wen-dang/sui-ji-er-ci-yuan-tu-pian/shou-ji-duan-sui-ji-tu-pian.md)
-  * [Page 2](api-shi-yong-wen-dang/sui-ji-er-ci-yuan-tu-pian/page-2.md)
+  * [完全随机返回随机图片](api-shi-yong-wen-dang/sui-ji-er-ci-yuan-tu-pian/page-2.md)
   * [随机二次元头像](api-shi-yong-wen-dang/sui-ji-er-ci-yuan-tu-pian/sui-ji-er-ci-yuan-tou-xiang.md)
 
 ***
