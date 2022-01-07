@@ -7,10 +7,14 @@ description: 目前收录了239张图片
 ### 请求URL
 
 ```
-https://www.loliapi.com/acg/
+https://www.loliapi.com/acg/pc/
 ```
 
-### 请求参数
+{% hint style="success" %}
+URL中的 pc 是**Personal Computer**的简写
+{% endhint %}
+
+### 请求参数（get）
 
 | 参数名称 |     参数值     |    参数说明   | 参数类型 |
 | :--: | :---------: | :-------: | :--: |
@@ -18,7 +22,7 @@ https://www.loliapi.com/acg/
 
 | 参数名称 |  参数值 |     参数说明     | 参数类型 |
 | :--: | :--: | :----------: | :--: |
-| type |      |   直接跳转图片源网址  |  默认  |
+| type |      |   重定向到图片源网址  |  默认  |
 | type |  url |    返回图片源网址   |  可选  |
 | type |  img |  返回图片源网址对应图片 |  可选  |
 | type | json | 返回图片相关json数据 |  可选  |
@@ -27,13 +31,13 @@ https://www.loliapi.com/acg/
 
 #### 最基本调用格式
 
-[https://www.loliapi.com/acg/](https://www.loliapi.com/acg/)
+[https://www.loliapi.com/acg/pc/](https://www.loliapi.com/acg/pc/)
 
 访问会返回一个随机图片
 
 #### 高级调用格式
 
-如果我想获取 id 为 23 的图片的 json 数据，就应该访问
+如果想获取 id 为 23 的图片的 json 数据，就应该访问
 
 [https://www.loliapi.com/acg/?id=23\&type=json](https://www.loliapi.com/acg/?id=23\&type=json)
 

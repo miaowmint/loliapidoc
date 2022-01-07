@@ -21,5 +21,3 @@ URL中的 pe 是**Pocket Edition**的简写
 {% content-ref url="dian-nao-duan-sui-ji-tu-pian.md" %}
 [dian-nao-duan-sui-ji-tu-pian.md](dian-nao-duan-sui-ji-tu-pian.md)
 {% endcontent-ref %}
-
-实在是懒得再写一遍
