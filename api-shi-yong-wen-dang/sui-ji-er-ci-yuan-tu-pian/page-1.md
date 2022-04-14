@@ -1,4 +1,8 @@
-# 识别UA返回随机图片
+---
+description: 调用此api会返回适用于当前设备的图片，目前适配了windows,mac,ipad,iphone,android，其他类型的设备默认为电脑端图片
+---
+
+# 自适应UA返回随机图片
 
 ### 请求URL
 

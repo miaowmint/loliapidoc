@@ -1,6 +1,7 @@
 # Table of contents
 
-* [欢迎使用loliapi](README.md)
+* [欢迎使用LoliApi](README.md)
+* [简介](<README (1).md>)
 * [联系邮箱](lian-xi-you-xiang.md)
 
 ## api使用文档
