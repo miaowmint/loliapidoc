@@ -4,7 +4,7 @@
 
 
 
-2020年09月14日 - LoliAPI诞生了，最开始的域名为 api.iloli.love（已弃用）
+2020年09月13日 - LoliAPI诞生了，最开始的域名为 api.iloli.love（已弃用）
 
 2021年03月10日 - 为了将API与其他站分离，更新域名为 [www.loliapi.com](https://www.loliapi.com) 并全站强制HTTPS
 
