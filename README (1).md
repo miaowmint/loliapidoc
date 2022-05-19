@@ -18,9 +18,11 @@
 
 2022年01月08日 - 更新文档
 
-2022年04月16日 - 于 [随缘API](https://www.sybapi.cc) 站长处获得主页源码使用授权
+2022年04月17日 - 更换了主页源码(已获取源码作者授权)，并更新文档，旧主页在 [https://www.loliapi.com/index.used.php](https://www.loliapi.com/index.used.php)
 
-2022年04月17日 - 更换了主页源码，并更新文档，旧主页在 [https://www.loliapi.com/index.used.php](https://www.loliapi.com/index.used.php)
+2022年05月17日 - 图库图片更新，pc端图片从239张增加到699张，pe端图片从98张图片新增到2785张，二次元头像图片从194张新增到218张
+
+2022年05月19日 - 由于新浪图床上传图片比较麻烦而且存在吞图(屏蔽图片)的情况，将图片来源从新浪图床转移到[ sm.ms图床](https://sm.ms/)&#x20;
 
 
 
